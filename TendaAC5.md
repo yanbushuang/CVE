@@ -60,3 +60,11 @@ print("HackAttackSuccess!")
 ## Attack demonstration：
 
 Use the above POC to play shell through telnet You can get a very stable shell 
+
+
+![image3](https://github.com/yanbushuang/CVE/blob/main/image-3.png)
+
+
+![image4](https://github.com/yanbushuang/CVE/blob/main/image-4.png)
+
+Over~
