@@ -8,7 +8,7 @@ version:V15.03.06.28(https://www.tenda.com.cn/download/detail-2740.html)
 
 type:Arbitrary Remote Command Execution 
 
-author:yanbushuan
+author:yanbushuang
 
 ## Vulnerability description and trigger location
 
